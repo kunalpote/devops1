@@ -10,7 +10,6 @@
     <plugins>
       <plugin>
         <artifactId>maven-compiler-plugin</artifactId>
-        <finalname>devops</finalname>
         <version>3.7.0</version>
         <configuration>
           <source>1.7</source>
